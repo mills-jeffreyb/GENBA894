@@ -24,7 +24,7 @@ import matplotlib.pyplot as plt <br>
 import re  <br>
 *csv*  <br>
 import csv  <br>
-# Excel-like format
+*Excel-like format*
 import pandas as pd <br>
 #data visualization <br>
 import matplotlib.pyplot as plt <br>
