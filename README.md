@@ -36,7 +36,7 @@ import statsmodels.api as sm  <br>
 
 import statsmodels.formula.api as smf
 <BR> <br> <br>
-# Opening the correct directory
+# Opening the Correct Directory
 os.chdir('C:\\Users\\millsj.ADMIN\\Desktop\\GENBA 894\\2018_DataChallenges_Teradata\\Donations\\')
  <br> <br>  <br>
 # Importing Data
